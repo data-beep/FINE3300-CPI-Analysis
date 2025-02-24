@@ -5,7 +5,7 @@ Data analysis on CPI data for Canada as well as each of the 10 provinces
 
 - **Data Cleaning**
 
-  - Read in 11 csv files
+  - Read in 11 csv files into pandas
   - Combine all 11 files into one pandas dataframe
   - Transpose the month columns to make them rows to allow for more efficient data analysis
 
